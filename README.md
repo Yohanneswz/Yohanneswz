@@ -9,16 +9,16 @@
 </p>
 <hr>  
 
-          👨‍💻All of my Coding projects are available at My Github Profile check below 👨‍💻
+- 👨‍💻  My Coding projects are available at My [Github Profile](https://github.com/yohanneswz) check down below<br>
 
 - 👜 Some of UI/UX Designing projects are available at My [Behance Profile](https://www.behance.net/yohanneswondu)<br>
 
-- 🙋‍♂️ You Want to Collaborate just ? [mail Me](mailto:yohannesyohannes68@gmail.com)<br>
+- 🙋‍♂️ You Want to Collaborate just [mail Me](mailto:yohannesyohannes68@gmail.com)<br>
 
 - ⚡ Fun fact     **la vida es código corto y muere **
 
 
-## 🌐 Social Presence:
+## 🌐 Social :
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](www.behance.net/yohanneswondu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohannes-wondu-715362314/)
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/Johnn_z) 
