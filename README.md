@@ -2,7 +2,7 @@
 <h3 align="center"> A passionate web developer & designer </h3>
 
 
-## 🌐 About me:
+## 🌐 About me 🌐 
 <p>
   
 "Software Engineering student passionate about crafting efficient code and seamless user experiences. As a UX/UI designer and web developer, I bring a unique blend of creativity and technical expertise to every project. Eager to collaborate and contribute to innovative solutions that make a difference. Let's build something amazing together!"
@@ -18,7 +18,7 @@
 - ⚡ Fun fact     **la vida es código corto y muere **
 
 
-## 🌐 Social :
+## 🌐 Social 🌐 
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](www.behance.net/yohanneswondu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohannes-wondu-715362314/)
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/Johnn_z) 
