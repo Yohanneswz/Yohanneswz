@@ -7,13 +7,22 @@
   
 "Software Engineering student passionate about crafting efficient code and seamless user experiences. As a UX/UI designer and web developer, I bring a unique blend of creativity and technical expertise to every project. Eager to collaborate and contribute to innovative solutions that make a difference. Let's build something amazing together!"
 </p>
-- 👨‍💻 All of my Coding projects are available at My [Github Profile](https://github.com/Yohanneswz)<br>
+<hr>  
+
+          👨‍💻All of my Coding projects are available at My Github Profile check below 👨‍💻
 
 - 👜 Some of UI/UX Designing projects are available at My [Behance Profile](https://www.behance.net/yohanneswondu)<br>
 
 - 🙋‍♂️ You Want to Collaborate just ? [mail Me](mailto:yohannesyohannes68@gmail.com)<br>
 
-- ⚡ Fun fact **la vida es código corto y muere **
+- ⚡ Fun fact     **la vida es código corto y muere **
+
+
+## 🌐 Social Presence:
+
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](www.behance.net/yohanneswondu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohannes-wondu-715362314/)
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/Johnn_z) 
+
 
 
 
