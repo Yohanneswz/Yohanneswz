@@ -5,7 +5,7 @@
 ## 🌐 About me 🌐 
 <p>
   
-Software Engineering student passionate about crafting efficient code and seamless user experiences. As a UX/UI designer and web developer, I bring a unique blend of creativity and technical expertise to every project. Eager to collaborate and contribute to innovative solutions that make a difference. Let's build something amazing together!
+Software Engineering  passionate about crafting efficient code and seamless user experiences. As a UX/UI designer and web developer, I bring a unique blend of creativity and technical expertise to every project. Eager to collaborate and contribute to innovative solutions that make a difference. Let's build something amazing together!
 </p>
 <hr>  
 
